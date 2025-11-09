@@ -14,3 +14,4 @@ print(f"Ratio for ginger {ginger_ratio} and C is {cadramom_ratio}")
 
 print(f"Is ginger is in masala spices ? => {'ginger' in masala_spices}")
 print(f"Is cinnamon is in masala spices ? => {'cinnamon' in masala_spices}")
+
