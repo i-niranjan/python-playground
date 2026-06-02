@@ -6,7 +6,11 @@ def infinite_chai():
 
 
 refill = infinite_chai()
+user = infinite_chai()
 
 
-for ___ in range(3):
-    print
+for _ in range(3):
+    print(next(refill))
+
+for _ in range(10):
+    print(next((user)))
